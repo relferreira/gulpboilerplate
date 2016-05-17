@@ -1,13 +1,18 @@
 ## Instructions:
 
-1. install node modules:
+1. Install Gulp and Bower
+	
+	npm install -g gulp
+	npm install -g bower
+
+2. Install node modules:
 	
 	npm install
 
-2. install bower dependencies:
+3. Install bower dependencies:
 
 	bower install
 
-3. Run gulp
+4. Run gulp
 
 	gulp serve
